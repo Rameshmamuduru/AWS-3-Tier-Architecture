@@ -1,4 +1,4 @@
-3 Tier Project
+DevOps - 3 Tier Project
 ---------------------------
 GitHub URL: https://github.com/KastroVKiran/3TierArchitectureApp.git
 
