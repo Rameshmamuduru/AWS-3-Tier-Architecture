@@ -17,7 +17,7 @@ RUN npm install
 COPY . .
 
 # Expose the port your app listens on
-EXPOSE 400    # or whatever port your app uses internally
+EXPOSE 4000    # or whatever port your app uses internally
 
 # Start the app with PM2 runtime (replaces pm2 startup/save)
 CMD ["pm2-runtime", "index.js"]
